@@ -46,9 +46,9 @@ Um usuário deve poder visualizar as receitas criadas pelos usuários que ele se
 
 ## O que a plataforma é capaz de fazer 🏁
 
-🏆 _Fornecer uma aplicação backend para um sistema de rede social voltada para o ambiente culinário_
+🏆 _Fornecer uma aplicação backend para um sistema de rede social voltada para o ambiente culinário._
 
-🏆 _Coletar, verificar, armazenar os dados em banco de dados próprio para o sistema_
+🏆 _Coletar, verificar, armazenar os dados em banco de dados próprio para o sistema._
 
 🏆 _Criar, ler, atualizar e deletar (CRUD) dados da aplicação._
 <br>
@@ -66,12 +66,12 @@ Um usuário deve poder visualizar as receitas criadas pelos usuários que ele se
 
 
 ## Conhecimentos adquiridos durante o projeto 🎓
-- Criação de projetos node com npm.init
-- Tranpilação de TS em JS
-- Integração com banco de dados externo e uso de variáveis de ambiente
-- Requisições HTTP / API Rest
-- Sistema de Autenticação e Autorização
-- Criptografia e geração de tokens de informações sensíveis
+- Criação de projetos node com npm.init.
+- Tranpilação de TS em JS.
+- Integração com banco de dados externo e uso de variáveis de ambiente.
+- Requisições HTTP / API Rest.
+- Sistema de Autenticação e Autorização.
+- Criptografia e geração de tokens de informações sensíveis.
 <br>
 <br>
 
@@ -92,7 +92,7 @@ Instale as dependências
 ```
 npm i
 ```
-**Crie um arquivo .env com as configurções do seu bando de dados** (preferencialmente MySQL, caso deseje utilizar outro, adaptações no código e dependências serão necessárias)
+**Crie um arquivo .env com as configurções do seu banco de dados** (preferencialmente MySQL, caso deseje utilizar outro, adaptações no código e dependências serão necessárias).
 
 ```
 DB_HOST = seu_endereço_host
