@@ -85,7 +85,7 @@ git clone https://github.com/EloisaFagundes/Backend-Cookenu
 Navegue para dentro da raiz do projeto
 
 ```
-cd Cookenu
+cd Backend-Cookenu
 ```
 Instale as dependências
 
